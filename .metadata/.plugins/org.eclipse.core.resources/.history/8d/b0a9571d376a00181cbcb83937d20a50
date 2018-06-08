@@ -1,0 +1,5 @@
+package com.slok.domain.security;
+
+public class Authority {
+
+}
